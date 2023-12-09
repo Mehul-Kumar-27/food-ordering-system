@@ -19,5 +19,9 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    <dependency>
+      <groupId>com.food.ordering.system</groupId>
+      <artifactId>order-application-service</artifactId>
+    </dependency>
   </dependencies>
 </project>
